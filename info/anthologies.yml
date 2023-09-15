@@ -1,0 +1,16 @@
+---
+object: set
+id: 49c9409d-5948-4c00-bd0a-bf3ebd50e23a
+code: ath
+tcgplayer_id: 1275
+name: Anthologies
+uri: https://api.scryfall.com/sets/49c9409d-5948-4c00-bd0a-bf3ebd50e23a
+scryfall_uri: https://scryfall.com/sets/ath
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aath&unique=prints
+released_at: '1998-11-01'
+set_type: box
+card_count: 85
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ath.svg?1694404800
